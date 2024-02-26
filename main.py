@@ -1,0 +1,1 @@
+soroban.show_number(12)
